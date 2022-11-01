@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ganeshpokharel007
 - 👀 I’m interested in Python Programming Language
-- 🌱 I’m currently learning python  
+- 🌱 I’m still learning python  
 - 💞️ I’m looking to collaborate on US based IT Companies
 - 📫 How to reach me ...
 - whats app
